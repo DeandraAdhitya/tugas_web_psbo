@@ -1,0 +1,29 @@
+body {
+  background-color: cadetblue;
+}
+
+img {
+  max-width: 70px;
+  float: left;
+  height: auto;
+}
+
+.btn {
+  float: right;
+  color: green;
+}
+
+.btn2 {
+  float: right;
+  color: red;
+}
+
+.btn3 {
+  float: right;
+  color: white;
+}
+
+.btn4 {
+  float: right;
+  color: grey;
+}
